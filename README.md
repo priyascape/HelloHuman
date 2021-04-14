@@ -6,7 +6,7 @@ You are tasked to build a page that will greet whoever visits your page. If they
 ● Query Parameters
 
 ## Tasks:
-● Create an ap that will render a page with either a default value of "human" or with the name provided in the URL query string.
+● Create a SpringBoot app that will render a page with either a default value of "human" or with the name provided in the URL query string.
 eg: http://localhost:8080/?name=Priya
 
 ## Optional Challenges:
